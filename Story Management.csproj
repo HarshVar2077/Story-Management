@@ -103,6 +103,7 @@
     <Compile Include="StoryItemsSummaryPlugin.cs" />
     <Compile Include="StoryReopenPlugin.cs" />
     <Compile Include="StoryStatusValidationPlugin.cs" />
+    <Compile Include="StoryUpdateValidationPlugin.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
